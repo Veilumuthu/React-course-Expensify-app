@@ -4,7 +4,7 @@ import { SingleDatePicker } from 'react-dates';
 // import 'react-dates/lib/css/_datepicker.css';
 
 const now = moment();
-export default class ExxpenseForm extends React.Component {
+export default class ExpenseForm extends React.Component {
     constructor(props){
         super(props);
         this.state = {
