@@ -2,7 +2,7 @@
 
 exports[`sholud render editexpense page 1`] = `
 <div>
-  <ExxpenseForm
+  <ExpenseForm
     onSubmit={[Function]}
   />
   <button
