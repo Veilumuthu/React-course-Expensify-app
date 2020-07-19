@@ -1,7 +1,6 @@
 import React from 'react';
 import {shallow} from 'enzyme';
 import {ExpenseListFilters} from '../../components/ExpenseListFilters';
-import '../setupTests';
 import { filters, altFilters } from '../fixtures/filters';
 import moment from 'moment';
 
